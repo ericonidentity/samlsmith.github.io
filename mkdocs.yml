@@ -1,0 +1,6 @@
+site_name: SAMLSmith Guide
+nav:
+  - Home: index.md
+  - Identity Providers: identityproviders.md
+theme:
+  name: material
